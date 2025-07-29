@@ -11,6 +11,9 @@ A comprehensive admin dashboard for managing university resource bookings. Built
 - **Analytics Charts**: Visualize booking duration patterns and sales trends
 - **Quick Actions**: Access frequently used functions from the dashboard
 
+![screenshot](readme_images/admin2.png)
+![screenshot](readme_images/admin1.png)
+
 ### 🏢 Resource Management
 
 - **Resource CRUD**: Create, read, update, and delete university resources
@@ -18,6 +21,10 @@ A comprehensive admin dashboard for managing university resource bookings. Built
 - **Pricing Control**: Configure pricing and discount options
 - **Image Management**: Upload and manage resource images
 - **Filtering & Sorting**: Advanced filtering and sorting capabilities
+
+![screenshot](readme_images/admin6.png)
+![screenshot](readme_images/admin9.png)
+![screenshot](readme_images/admin12.png)
 
 ### 📅 Booking Management
 
@@ -27,12 +34,18 @@ A comprehensive admin dashboard for managing university resource bookings. Built
 - **Pagination**: Handle large volumes of bookings efficiently
 - **Search & Filter**: Advanced search and filtering options
 
+![screenshot](readme_images/admin3.png)
+![screenshot](readme_images/admin5.png)
+![screenshot](readme_images/admin4.png)
+
 ### 👥 User Management
 
 - **User Profiles**: Manage user accounts and profiles
 - **Authentication**: Secure login and logout functionality
 - **Role Management**: Control access based on user roles
 - **Account Settings**: User profile and password management
+
+![screenshot](readme_images/admin10.png)
 
 ### ⚙️ System Settings
 
@@ -41,12 +54,16 @@ A comprehensive admin dashboard for managing university resource bookings. Built
 - **Advance Booking**: Configure how far in advance users can book
 - **System Preferences**: Manage global system settings
 
+![screenshot](readme_images/admin8.png)
+
 ### 🔐 Authentication & Security
 
 - **Protected Routes**: Secure access to admin features
 - **Session Management**: Automatic session handling
 - **Dark Mode**: Toggle between light and dark themes
 - **Responsive Design**: Works seamlessly on all devices
+
+![screenshot](readme_images/admin13.png)
 
 ## 🛠️ Tech Stack
 
